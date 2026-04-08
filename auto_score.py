@@ -3,7 +3,7 @@ auto_score.py
 ─────────────
 Uses a local Ollama model as an automatic judge to score
 each LLM answer using the THREE-LEVEL SCORING SCALE.
-No API key needed — uses your local Ollama server.
+No API key needed — uses local Ollama server.
 """
 
 import json
