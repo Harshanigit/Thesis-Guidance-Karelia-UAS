@@ -10,10 +10,10 @@ import requests
 import time
 
 # ── Settings ──────────────────────────────────────────────────────────────────
-INPUT_FILE  = "karelia_thesis_guidance_questions_and_answers.json"  # your original file
-OUTPUT_FILE = "llm_answers.json"    # new file that will be created
-MODEL_NAME  = "karelia-thesis"      # the model you created in Step 2
-OLLAMA_URL  = "http://localhost:11434/api/chat"  # Ollama runs here by default
+INPUT_FILE  = "karelia_thesis_guidance_questions_and_answers.json"  
+OUTPUT_FILE = "llm_answers.json"    
+MODEL_NAME  = "karelia-thesis"      
+OLLAMA_URL  = "http://localhost:11434/api/chat"  
 # ──────────────────────────────────────────────────────────────────────────────
 
 
