@@ -1,0 +1,1747 @@
+========================================================================
+  AUTO-SCORED REPORT — llm_answers.json
+  Scored by: qwen2.5 (local Ollama)
+========================================================================
+
+========================================================================
+  SECTION: PLANNING AND IMPLEMENTATION — Starting the Thesis Process
+========================================================================
+
+Q1. TOPIC: How do I start my thesis process at Karelia UAS?
+  Average score across all variations: 5.75/6
+  Ratings per variation: Strong | Strong | Strong | Strong
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  Start by choosing a topic based on your professional interest that relates to your specialisation field and its development perspectives. Discuss the topic with the person responsible for thesis processes in your programme. Once the topic is accepted, log in to Wihi at https://karelia.wihi.fi and submit your topic proposal. After approval in Wihi, an advisor is assigned and you can begin your literature review. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: How do I start my thesis process at Karelia UAS?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all Karelia UAS rules correctly.
+  Completeness : 3/3 — Answered everything fully.
+  LLM Answer   : To start your thesis process at Karelia University of Applied Sciences (Karelia UAS), follow the steps outlined in the official Karelia UAS thesis instructions:
+
+1.  **Choose a topic**: Select a topic...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: What should I do first to begin my thesis at Karelia?
+  ✅ STRONG  |  Total: 5/6
+  Accuracy     : 3/3 — The LLM correctly identifies the initial steps and aligns with the official guidelines.
+  Completeness : 2/3 — Misses discussing the topic selection process, Wihi submission, and advisor assignment.
+  LLM Answer   : To begin your thesis at Karelia University of Applied Sciences (Karelia UAS), you should start by discussing your potential thesis topic with the person responsible for the thesis processes in your pr...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: I have no idea where to start with my thesis, can you help?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all Karelia UAS rules correctly.
+  Completeness : 3/3 — Answered everything fully, including guidance and steps to follow.
+  LLM Answer   : You're starting your thesis journey! I'd be happy to guide you through the process. However, please note that as a thesis guidance assistant, my role is to provide information and direct you to offici...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: where do i even begin with this thesis thing
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all Karelia UAS rules correctly.
+  Completeness : 3/3 — Answered everything fully, including steps and references.
+  LLM Answer   : Starting a thesis can be overwhelming, but don't worry, you'll get through it.
+
+To begin, let's break down the process into smaller steps. Here's a suggested order to follow:
+
+1. **Read and understand...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+Q2. TOPIC: What is the first thing I should do for my thesis?
+  Average score across all variations: 4.75/6
+  Ratings per variation: Strong | Acceptable | Strong | Strong
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  The first step is to choose a thesis topic that interests you, arises from a practical need, and relates to your specialisation field. Then discuss it with the person responsible for thesis processes in your programme. After that, log in to Wihi at https://karelia.wihi.fi and submit your topic proposal to get it formally approved. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: What is the first thing I should do for my thesis?
+  ✅ STRONG  |  Total: 5/6
+  Accuracy     : 3/3 — Correctly followed the Karelia UAS rules.
+  Completeness : 2/3 — Missed mentioning the initial steps of choosing a topic and logging into Wihi to submit the proposal.
+  LLM Answer   : According to the Karelia UAS thesis instructions, the first step in starting your thesis process is to discuss your potential thesis topic with the person responsible for the thesis processes in your ...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: What comes first in the thesis writing process?
+  ⚠️  ACCEPTABLE  |  Total: 4/6
+  Accuracy     : 2/3 — The LLM correctly identifies the first step as topic approval but omits the initial steps of choosing a topic and discussing it with the thesis process manager.
+  Completeness : 2/3 — The LLM provides only part of the full answer, missing the initial steps and the link to official instructions.
+  LLM Answer   : According to the Karelia UAS thesis instructions, the first step in the thesis writing process is to **approve the thesis topic**. This involves discussing the potential thesis topic with the person r...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: I just started my studies, what is the very first step for my thesis?
+  ✅ STRONG  |  Total: 5/6
+  Accuracy     : 3/3 — The LLM correctly mentioned discussing the topic with the thesis process responsible person and referenced the official instructions.
+  Completeness : 2/3 — Missed mentioning choosing a topic, logging into Wihi, and formally submitting the proposal.
+  LLM Answer   : According to the Karelia UAS thesis instructions, the very first step for your thesis is to discuss your potential topic with the person responsible for the thesis processes in your programme. This wi...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: can u tell me what to do first for thesis
+  ✅ STRONG  |  Total: 5/6
+  Accuracy     : 3/3 — Followed all Karelia rules correctly.
+  Completeness : 2/3 — Missed discussing with the person responsible for thesis processes in the programme before choosing a topic.
+  LLM Answer   : According to the Karelia UAS thesis instructions, the first step in starting your thesis process is to **choose a topic** that interests you and relates to important professional practices in your fie...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+Q3. TOPIC: Can I do my thesis alone or do I need a partner?
+  Average score across all variations: 5.0/6
+  Ratings per variation: Acceptable | Strong | Acceptable | Strong
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  A thesis can be carried out individually or as pair or group work. If doing pair work, only one student creates the topic proposal in Wihi at https://karelia.wihi.fi and adds the other student using the Invite group members field. The other student must accept the invitation before the proposal is submitted to the coordinator. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: Can I do my thesis alone or do I need a partner?
+  ⚠️  ACCEPTABLE  |  Total: 4/6
+  Accuracy     : 2/3 — The answer does not specify how to manage pair work as required by the rules.
+  Completeness : 2/3 — Misses instructions on who creates the topic proposal and how to invite a partner in Wihi.
+  LLM Answer   : You can choose to carry out your thesis individually or as pair or group work. The topic should be chosen based on professional interest and must relate to important professional practices in the fiel...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: Is it possible to write my thesis together with another student?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all relevant rules correctly.
+  Completeness : 3/3 — Answered the full question with all necessary details.
+  LLM Answer   : Yes, it is possible to write your thesis together with another student. This can be done individually or as a pair.
+
+When choosing a topic for a collaborative thesis, consider the following:
+
+- The to...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: Do I have to work with someone or can I do the thesis by myself?
+  ⚠️  ACCEPTABLE  |  Total: 4/6
+  Accuracy     : 2/3 — The LLM did not mention that a single student needs to create the topic proposal and add another student through Wihi.
+  Completeness : 2/3 — The LLM omitted instructions on how to invite a collaborator via Wihi, and how both students should accept the invitation before submission.
+  LLM Answer   : You can choose to carry out your thesis individually or as pair or group work. The topic should be chosen based on professional interest and must relate to important professional practices in the fiel...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: can me and my friend do the same thesis together
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The LLM provided all necessary information about collaborative thesis work as per Karelia UAS rules.
+  Completeness : 3/3 — The answer fully addressed the student's question and included all relevant details.
+  LLM Answer   : **Collaborative Thesis Work**
+
+Yes, you can work on a thesis with your friend. The process is similar to individual work, but there are some additional steps and considerations.
+
+**Approval of Collabo...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+========================================================================
+  SECTION: PLANNING AND IMPLEMENTATION — Literature Review
+========================================================================
+
+Q4. TOPIC: What is a literature review and when should I write it?
+  Average score across all variations: 5.5/6
+  Ratings per variation: Strong | Acceptable | Strong | Strong
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  The literature review is written after the approval of your topic and guidance form. It sets the premises and defines the knowledge base for your thesis. It must be approximately 10 pages long, concentrate on the key themes, concepts and knowledge base of your thesis, use correctly cited academic sources, have logical text organisation and headings, and follow the Karelia UAS thesis reporting instructions. Your supervisor will provide feedback for you to edit it. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: What is a literature review and when should I write it?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all Karelia UAS rules correctly.
+  Completeness : 3/3 — Answered everything fully.
+  LLM Answer   : A literature review is a written document that sets the premises and defines the knowledge base for your thesis. It's recommended to start writing the thesis as soon as the topic is approved, and the ...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: When exactly do I need to write the literature review?
+  ⚠️  ACCEPTABLE  |  Total: 4/6
+  Accuracy     : 2/3 — The answer misses mentioning that the literature review should concentrate on key themes, concepts and knowledge base of the thesis.
+  Completeness : 2/3 — Lacks details about the purpose, content, structure, feedback process, and length beyond just the page count.
+  LLM Answer   : According to the Karelia UAS thesis instructions, you should create an approximately 10-page literature review on the topic after the approval of the topic and guidance form. This is a crucial step in...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: I dont really understand what a literature review is, can you explain?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The LLM answer correctly follows all the rules mentioned in the correct answer.
+  Completeness : 3/3 — The LLM answered the question comprehensively, covering all aspects of a literature review as per the correct answer.
+  LLM Answer   : A literature review is a crucial part of the thesis process at Karelia UAS. I'll provide an explanation based on the official instructions.
+
+**What is a Literature Review?**
+
+A literature review is a ...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: what is lit review and when do i do it
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The LLM provided accurate information and followed the rules correctly.
+  Completeness : 3/3 — The LLM answered all parts of the question thoroughly, covering when to do it, what its purpose is, what should be included, how long it should be, and format requirements.
+  LLM Answer   : A literature review (Lit Review) is a crucial part of the thesis process at Karelia UAS. It's a written document that sets the premises and defines the knowledge base for your thesis.
+
+**When to do it...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+Q5. TOPIC: How long should my literature review be and what must it include?
+  Average score across all variations: 6.0/6
+  Ratings per variation: Strong | Strong | Strong | Strong
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  The literature review must be approximately 10 pages in length. It must follow thesis reporting instructions, use sources appropriate for academic writing cited correctly, have logical text organisation and headings, include correctly marked in-text citations, and have content and reference lists outlined according to the instructions. The scope should be agreed upon with your thesis supervisor. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: How long should my literature review be and what must it include?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all the rules correctly.
+  Completeness : 3/3 — Answered everything fully.
+  LLM Answer   : According to the Karelia UAS thesis instructions, your literature review should be approximately 10 pages in length. It is recommended that you create a literature review on the topic after the approv...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: What is the required length and content of my literature review?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all key rules correctly.
+  Completeness : 3/3 — Answered all parts of the question fully.
+  LLM Answer   : According to the Karelia UAS thesis instructions, your literature review should be approximately 10 pages in length. It must concentrate on the key themes, concepts, and knowledge base of your thesis....
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: how many pages does my literature review need to be
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all relevant Karelia UAS rules correctly.
+  Completeness : 3/3 — Answered all parts of the question fully.
+  LLM Answer   : According to the Karelia UAS thesis instructions, your literature review should be approximately 10 pages in length. This is mentioned in Section 1 — Planning and Implementation under the Literature R...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: what exactly do i put in the literature review
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The answer covers all key points required by the rules.
+  Completeness : 3/3 — The response fully answers the question, providing a comprehensive overview of what should be included in the literature review.
+  LLM Answer   : According to the Karelia UAS thesis instructions, the literature review should:
+
+1. **Concentrate on key themes, concepts, and knowledge base** of the thesis.
+2. **Follow the thesis reporting instruct...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+Q6. TOPIC: I just got my topic approved, what do I do next?
+  Average score across all variations: 5.75/6
+  Ratings per variation: Strong | Strong | Strong | Strong
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  After topic approval, begin your literature review immediately. The literature review must be approximately 10 pages long and concentrate on the key themes, concepts and knowledge base of your thesis. Agree on the scope with your thesis supervisor and follow the Karelia UAS reporting instructions. Upload the completed literature review to Wihi at https://karelia.wihi.fi for your supervisor's feedback and approval. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: I just got my topic approved, what do I do next?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all relevant Karelia UAS rules.
+  Completeness : 3/3 — Answered everything fully, including specific details and references.
+  LLM Answer   : Congratulations on getting your topic approved! Next, you should start drafting the literature review, which is an approximately 10-page document that sets the premises and defines the knowledge base ...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: My thesis topic was accepted, what is the next step?
+  ✅ STRONG  |  Total: 5/6
+  Accuracy     : 3/3 — Followed all Karelia UAS rules correctly.
+  Completeness : 2/3 — Missed details about agreeing on scope with supervisor and uploading to Wihi.
+  LLM Answer   : Congratulations on having your thesis topic accepted!
+
+According to the Karelia UAS thesis instructions, the next step after accepting a thesis topic is to create an approximately 10-page literature r...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: topic got approved in wihi now what
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all key steps and provided relevant information.
+  Completeness : 3/3 — Answered every part of the question without missing any important details.
+  LLM Answer   : **After Topic Approval in WiHi**
+
+Now that your thesis topic has been approved in WiHi, you can proceed with the next steps. Here's a brief overview:
+
+1. **Literature Review**: Start writing your lite...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: supervisor approved my topic what should i do now
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all Karelia UAS rules correctly.
+  Completeness : 3/3 — Answered everything fully, providing detailed steps and references.
+  LLM Answer   : Congratulations on getting your thesis topic approved by your supervisor! Now that you have a confirmed topic, it's time to start working on the literature review. 
+
+**Step 1: Start writing the Litera...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+========================================================================
+  SECTION: PLANNING AND IMPLEMENTATION — Thesis Plan
+========================================================================
+
+Q7. TOPIC: When can I start my thesis plan?
+  Average score across all variations: 6.0/6
+  Ratings per variation: Strong | Strong | Strong | Strong
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  You can start drafting your thesis plan after your supervisor has approved your literature review. The plan is presented as instructed by your programme to assess its feasibility. Once approved, you move to the implementation phase — data collection for research-based theses, or production and documentation of implementation stages for practice-based theses. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: When can I start my thesis plan?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The answer correctly follows the rules by mentioning approval of the literature review and the next steps.
+  Completeness : 3/3 — It fully answers the question and provides additional relevant information.
+  LLM Answer   : You can start drafting your thesis plan after the literature review has been approved by your thesis supervisor.
+
+According to the Karelia UAS thesis instructions:
+
+"When the thesis supervisor has app...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: At what point in the process can I begin making my thesis plan?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The answer correctly identifies that you can start making a plan after the literature review is approved and follows the general process as outlined by the rules.
+  Completeness : 3/3 — It fully addresses the student's question, providing all necessary details including steps before planning and a reference link.
+  LLM Answer   : According to the Karelia UAS thesis instructions, you can start drafting your thesis plan after the literature review has been approved by your thesis supervisor. This typically occurs after you have ...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: after the literature review can i start the thesis plan
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all relevant Karelia UAS rules.
+  Completeness : 3/3 — Answered the full question, including the reference to the official instructions.
+  LLM Answer   : According to the Karelia UAS thesis instructions, after the literature review is approved by your thesis supervisor, you can start drafting the thesis plan.
+
+Here's a quote from the instructions:
+
+"Wh...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: when is the right time to write thesis plan
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Correctly followed the Karelia UAS rules.
+  Completeness : 3/3 — Answered all parts of the question fully.
+  LLM Answer   : According to the Karelia UAS thesis instructions, the student can start drafting the thesis plan after the literature review has been approved by the thesis supervisor.
+
+Here's a quote from the instru...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+Q8. TOPIC: What should my thesis plan include?
+  Average score across all variations: 6.0/6
+  Ratings per variation: Strong | Strong | Strong | Strong
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  The thesis plan outlines the feasibility of your approach and identifies development points. After approval, the implementation phase involves data collection (surveys, interviews, observation), documenting work stages, frequent communication with your supervisor, and for practice-based theses, systematic production and description of implementation stages. If the knowledge base needs to be complemented, this must be done before data collection begins. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: What should my thesis plan include?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all relevant rules without deviation.
+  Completeness : 3/3 — Answered the full question, providing comprehensive details as requested.
+  LLM Answer   : According to the Karelia UAS thesis instructions, your thesis plan should be presented as instructed by the programme to assess its feasibility and identify points for development or specification. Th...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: What content is required in the thesis plan?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all relevant Karelia UAS rules correctly.
+  Completeness : 3/3 — Answered everything fully, covering all required elements of a thesis plan.
+  LLM Answer   : According to the Karelia UAS thesis instructions, when the thesis supervisor has approved the literature review, the student can start drafting the thesis plan. The plan is presented as instructed by ...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: what do i write in the thesis plan
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all relevant Karelia UAS rules and guidelines.
+  Completeness : 3/3 — Answered the full question without missing any key points.
+  LLM Answer   : According to the Karelia UAS thesis instructions, when drafting the thesis plan, you should include:
+
+1. **Research question(s)**: Clearly define the research question(s) that guide your study.
+2. **O...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: im making my thesis plan what does it need to have
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The LLM correctly followed the rules by including key elements of a thesis plan as per Karelia UAS guidelines.
+  Completeness : 3/3 — It answered all parts of the question, providing detailed information on what a thesis plan should include.
+  LLM Answer   : According to the Karelia UAS thesis instructions, a thesis plan should be created after the literature review is approved by your supervisor. The plan should outline the feasibility and identify point...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+Q9. TOPIC: What happens after my thesis plan is approved?
+  Average score across all variations: 6.0/6
+  Ratings per variation: Strong | Strong | Strong | Strong
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  After the thesis plan is approved, you move to the implementation phase. For a research-based thesis, this means collecting data through surveys, interviews, or observation. For a practice-based thesis, it involves producing and systematically documenting the stages of implementation. You should also maintain frequent communication with your supervisor and the commissioning organisation throughout this phase. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: What happens after my thesis plan is approved?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all rules correctly.
+  Completeness : 3/3 — Answered everything fully.
+  LLM Answer   : According to the Karelia UAS thesis instructions, once your thesis plan is approved, the implementation phase begins.
+
+For a **research-based thesis**, this involves data collection through surveys, i...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: Once my thesis plan gets approved, what comes next?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all rules correctly.
+  Completeness : 3/3 — Answered everything fully.
+  LLM Answer   : According to the Karelia UAS thesis instructions, once your thesis plan is approved, the implementation phase begins. This involves:
+
+- **Research-based thesis**: data collection through surveys, inte...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: my plan was approved by supervisor what do i do now
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The LLM followed all the rules correctly, mentioning the implementation phase and key steps.
+  Completeness : 3/3 — The answer covered all aspects of what to do next after plan approval.
+  LLM Answer   : Now that your thesis topic proposal and plan have been approved by your supervisor, you can proceed to the implementation phase. This is where you start carrying out the research or development tasks ...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: plan got approved what are the next steps
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all relevant Karelia UAS rules correctly.
+  Completeness : 3/3 — Answered everything fully, providing detailed next steps.
+  LLM Answer   : Congratulations on having your thesis plan approved! The next steps in the thesis process at Karelia UAS are:
+
+1. **Literature Review**: Start writing a literature review, approximately 10 pages in le...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+========================================================================
+  SECTION: PLANNING AND IMPLEMENTATION — Instructions for Wihi: Starting and Making a Topic Proposal
+========================================================================
+
+Q10. TOPIC: How do I submit my topic proposal in Wihi?
+  Average score across all variations: 6.0/6
+  Ratings per variation: Strong | Strong | Strong | Strong
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  Log in to Wihi at https://karelia.wihi.fi using your Karelia user ID and password. Create a topic proposal by entering your working title, start and end dates, thesis type (Product-based, Research, Portfolio-Diary, or Master's thesis), and a description of content, objectives and outcomes. If commissioned, add commissioner information. Before submitting, commit to complying with good scientific practice. When you submit the topic proposal, the thesis coordinator of your programme is notified. If your topic is accepted, the coordinator will assign an advisor (or advisors) for your work. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: How do I submit my topic proposal in Wihi?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all relevant steps and guidelines.
+  Completeness : 3/3 — Covered all aspects of the question without missing any important details.
+  LLM Answer   : To submit your topic proposal in Wihi, follow these steps:
+
+1. Log in to Wihi at **https://karelia.wihi.fi** using your Karelia user ID (username and password).
+2. Create a new topic proposal by click...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: How do I submit my topic to Wihi?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all Karelia rules correctly.
+  Completeness : 3/3 — Answered everything fully.
+  LLM Answer   : To submit your topic proposal in Wihi, follow these steps:
+
+1. Log in to Wihi at **https://karelia.wihi.fi** using your Karelia user ID (username and password).
+2. Create a new topic proposal by click...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: How do I propose a topic in Wihi?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The LLM followed all the rules correctly.
+  Completeness : 3/3 — The answer covered all aspects of the question without missing anything.
+  LLM Answer   : To propose a topic in Wihi, follow these steps:
+
+1. Log in to Wihi at **https://karelia.wihi.fi** using your Karelia user ID (username and password).
+2. Create a new topic proposal by clicking on the ...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: How to make a topic proposal in the system?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all Karelia UAS rules correctly.
+  Completeness : 3/3 — Answered everything fully.
+  LLM Answer   : To make a topic proposal in Wihi, follow these steps:
+
+1. Log in to Wihi at **https://karelia.wihi.fi** using your Karelia user ID (username and password).
+2. Create a new topic proposal by clicking o...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+Q11. TOPIC: What information do I need to fill in when creating a topic proposal in Wihi?
+  Average score across all variations: 6.0/6
+  Ratings per variation: Strong | Strong | Strong | Strong
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  In Wihi at https://karelia.wihi.fi, your topic proposal must include: a working title (in English-mediated programmes, copy the English title to the Finnish title field), start and estimated end dates, thesis type, and a description of content, objectives and outcomes. If your thesis is commissioned, add commissioner details. You must also commit to good scientific practice before submitting. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: What information do I need to fill in when creating a topic proposal in Wihi?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all relevant Karelia UAS rules.
+  Completeness : 3/3 — Answered all parts of the question comprehensively.
+  LLM Answer   : When creating a topic proposal in Wihi, you will need to provide the following information:
+
+1. **Working title**: Write a working title for your thesis.
+2. **English title** (in English-mediated prog...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: What details do I have to enter when making a topic proposal in Wihi?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The LLM correctly provided all required details as per Karelia UAS rules.
+  Completeness : 3/3 — The answer fully addressed all aspects of the question, including the reference to official instructions.
+  LLM Answer   : When making a topic proposal in Wihi, you need to enter the following details:
+
+1. **Working title**: Write a working title for your thesis.
+2. **English title** (in English-mediated programmes): Copy...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: what fields do i fill in for topic proposal in wihi
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The LLM correctly included all required fields as per Karelia UAS rules.
+  Completeness : 3/3 — The answer fully addressed the student's question, including all necessary details.
+  LLM Answer   : According to the Karelia UAS thesis instructions, when creating a topic proposal in Wihi, you should fill in the following fields:
+
+1. **Working title**: Enter a working title for your thesis.
+2. **Fi...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: making topic proposal in wihi what do i write there
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The LLM answer correctly includes all required elements as per Karelia UAS rules.
+  Completeness : 3/3 — It fully addressed all parts of the question, including an example and a reference link.
+  LLM Answer   : When making a topic proposal in Wihi, you should provide the following information:
+
+1. **Working title**: A concise and clear title for your thesis.
+2. **Start date** and **estimated end date**: The ...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+Q12. TOPIC: I submitted my topic proposal in Wihi, what happens next?
+  Average score across all variations: 5.75/6
+  Ratings per variation: Strong | Strong | Strong | Strong
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  After submission,the thesis coordinator of your programme is notified. If your topic is accepted, the coordinator will assign an advisor (or advisors) for your work. Both you and your advisor gain access to the initial thesis view in Wihi at https://karelia.wihi.fi. You can then set up your first appointment by writing a message to your advisor in Wihi. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: I submitted my topic proposal in Wihi, what happens next?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Covered all necessary steps and provided correct information.
+  Completeness : 3/3 — Answered every part of the question without missing any details.
+  LLM Answer   : Once you have submitted your topic proposal in Wihi, the following steps will occur:
+
+1.  The thesis coordinator is notified that a new topic proposal has been submitted.
+2.  The supervisor(s) assigne...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: After sending my topic proposal in Wihi, what should I expect?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all Karelia UAS rules correctly.
+  Completeness : 3/3 — Answered everything fully, including steps and references.
+  LLM Answer   : According to the Karelia UAS thesis instructions, after submitting your topic proposal in Wihi:
+
+* The thesis coordinator will be notified.
+* If the topic is accepted, an advisor will be assigned to y...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: sent topic proposal in wihi now what happens
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The response correctly follows the rules by mentioning the steps after submission, including advisor assignment and access to Wihi.
+  Completeness : 3/3 — It fully answers the question by providing detailed next steps and additional guidance.
+  LLM Answer   : **After Submitting a Topic Proposal in Wihi**
+
+Once you have submitted your topic proposal in Wihi, the following steps will occur:
+
+1. **Thesis Coordinator Notification**: The thesis coordinator is n...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: i just submitted my proposal what comes after that
+  ✅ STRONG  |  Total: 5/6
+  Accuracy     : 3/3 — Followed all Karelia UAS rules correctly.
+  Completeness : 2/3 — Missed advising to set up the first appointment with the advisor in Wihi.
+  LLM Answer   : According to the Karelia UAS thesis instructions, after submitting your topic proposal, the next steps are:
+
+1. **Approval**: The thesis coordinator will review and approve your topic proposal.
+2. **A...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+========================================================================
+  SECTION: PLANNING AND IMPLEMENTATION — Thesis Phases in Wihi
+========================================================================
+
+Q13. TOPIC: What are the thesis phases in Wihi?
+  Average score across all variations: 4.0/6
+  Ratings per variation: Acceptable | Acceptable | Strong | Acceptable
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  In Wihi at https://karelia.wihi.fi, the thesis has three phases. In Phase 1 and Phase 2, you advance the thesis with your advisor's support and when moving between phases, the evaluation (HYV = PASS) is transferred to Peppi. In Phase 3, you finalise the thesis, set the results seminar and maturity test dates, and submit the final version via Turnitin. After assessment, you upload to Theseus and copy the URN link back into Wihi to receive your final grade. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: What are the thesis phases in Wihi?
+  ⚠️  ACCEPTABLE  |  Total: 3/6
+  Accuracy     : 2/3 — Missed key phases and their descriptions.
+  Completeness : 1/3 — Only partially addressed the question, missing detailed information on phases.
+  LLM Answer   : According to the Karelia UAS thesis instructions, when the topic proposal is approved, a Thesis phases window appears in Wihi. The student can then choose the current date and write a message to their...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: Can you explain the different thesis phases I see in Wihi?
+  ⚠️  ACCEPTABLE  |  Total: 4/6
+  Accuracy     : 2/3 — Missed the specific phases mentioned in Wihi.
+  Completeness : 2/3 — Omitted information about Phase 3 and the role of Peppi in transferring evaluations.
+  LLM Answer   : According to the Karelia UAS thesis instructions, the thesis process is divided into several phases that are tracked and monitored through the Wihi system. Here's a brief overview of each phase:
+
+1. *...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: what do the phases in wihi mean
+  ✅ STRONG  |  Total: 5/6
+  Accuracy     : 2/3 — The answer did not follow the exact phases as described in the reference, missing Phase 1 and Phase 2 details.
+  Completeness : 3/3 — Provided a detailed explanation of thesis phases but missed the specific names (Phase 1, Phase 2) and their exact roles.
+  LLM Answer   : The phases in Wihi refer to the different stages of a thesis project that are tracked and monitored within the system. The specific phases may vary depending on the program and degree, but here is an ...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: how many phases are there in wihi for thesis
+  ⚠️  ACCEPTABLE  |  Total: 4/6
+  Accuracy     : 2/3 — The LLM incorrectly states there are four phases instead of three in Wihi, and does not mention the specific phases as provided by Karelia UAS.
+  Completeness : 2/3 — While it provides a detailed explanation with four phases, it does not follow the exact phases mentioned in the correct answer and misses some details from Phase 1 and 2.
+  LLM Answer   : According to the Karelia UAS thesis instructions provided, there are 4 phases in Wihi for a thesis:
+
+1. **Topic proposal**: The student creates and submits a topic proposal in Wihi.
+2. **Project plan*...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+Q14. TOPIC: How do I advance my thesis in Wihi?
+  Average score across all variations: 5.25/6
+  Ratings per variation: Acceptable | Strong | Strong | Strong
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  Log in to Wihi at https://karelia.wihi.fi and use the Thesis phases window to track your progress. In Phase 1 and 2, work with your advisor using the messaging system and upload documents such as your literature review. Use Create Task to plan and schedule thesis tasks. In Phase 3, finalise the thesis and submit via Turnitin. Once assessed, upload to Theseus and copy the permanent URN link to Wihi to receive your final grade. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: How do I advance my thesis in Wihi?
+  ⚠️  ACCEPTABLE  |  Total: 4/6
+  Accuracy     : 2/3 — Missed steps for uploading documents and creating tasks.
+  Completeness : 2/3 — Missing details on Phase 1-2 task management and Phase 3 submission to Theseus.
+  LLM Answer   : To advance your thesis in Wihi, follow the steps below:
+
+1.  **Phase 1 and Phase 2**: Advance the thesis with the support of your advisor. When progressing from one phase to the next, the evaluation (...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: How do I move forward to the next phase in Wihi?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all relevant Karelia UAS rules and procedures.
+  Completeness : 3/3 — Answered every part of the question comprehensively.
+  LLM Answer   : To advance the thesis process in Wihi, follow these steps:
+
+1.  Ensure you have completed all necessary tasks and milestones for the current phase.
+2.  Consult with your thesis supervisor to confirm t...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: how do i progress in wihi
+  ✅ STRONG  |  Total: 5/6
+  Accuracy     : 3/3 — Covered all main steps for progress in Wihi as per Karelia rules.
+  Completeness : 2/3 — Missed specific instructions like using Thesis phases window, Create Task feature, and submitting via Turnitin and Theseus.
+  LLM Answer   : To progress in Wihi, follow the steps below:
+
+1.  **Log in to Wihi**: Access Wihi at https://karelia.wihi.fi using your Karelia user ID (username and password).
+2.  **Create a topic proposal**: In Wih...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: stuck in wihi how to go to next phase
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all relevant steps and provided useful advice.
+  Completeness : 3/3 — Addressed all aspects of the question and provided a comprehensive response.
+  LLM Answer   : You're experiencing difficulties advancing your thesis process through Wihi.
+
+To progress to the next phase in Wihi:
+
+1.  **Check your current phase**: Ensure you are aware of which phase you are curr...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+Q15. TOPIC: How do I submit my final thesis in Wihi?
+  Average score across all variations: 4.5/6
+  Ratings per variation: Acceptable | Acceptable | Acceptable | Strong
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  In Phase 3 of Wihi at https://karelia.wihi.fi, return the final version of your thesis via the Turnitin plagiarism detection tool. Ensure the title in Wihi matches the final title exactly. Do not use a long dash between the main title and subtitle — use a colon or period instead as dashes cause errors in Peppi. Once assessed, upload to Theseus and copy the full URN link (starting with https://) back into Wihi to receive your final grade. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: How do I submit my final thesis in Wihi?
+  ⚠️  ACCEPTABLE  |  Total: 4/6
+  Accuracy     : 2/3 — The response misses mentioning the Turnitin plagiarism detection tool and the importance of matching titles exactly.
+  Completeness : 2/3 — It omits uploading to Theseus, adding the full URN link back into Wihi for grading, and including detailed guidance links.
+  LLM Answer   : To submit your final thesis in Wihi, follow these steps:
+
+1.  Log in to Wihi at **https://karelia.wihi.fi** using your Karelia user ID (username and password).
+2.  Ensure that you have completed all t...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: What is the process for submitting the completed thesis in Wihi?
+  ⚠️  ACCEPTABLE  |  Total: 4/6
+  Accuracy     : 2/3 — The LLM missed mentioning specific steps like matching the title exactly, avoiding long dashes, and uploading to Theseus.
+  Completeness : 2/3 — The LLM provided an overview but lacked detailed instructions for submission in Wihi as per the correct answer.
+  LLM Answer   : According to the Karelia UAS thesis instructions, the process for submitting the completed thesis in Wihi involves the following steps:
+
+1.  **Finalize the thesis**: Ensure that the thesis has been th...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: how do i hand in my finished thesis through wihi
+  ⚠️  ACCEPTABLE  |  Total: 4/6
+  Accuracy     : 2/3 — The answer omits important steps such as using Turnitin for plagiarism detection and matching the title exactly.
+  Completeness : 2/3 — It provides a general guideline but misses specific details like using Turnitin, matching titles, and uploading to Theseus.
+  LLM Answer   : To hand in your finished thesis through Wihi, follow these steps:
+
+1.  **Log in to Wihi**: Access the Wihi system at [https://karelia.wihi.fi](https://karelia.wihi.fi) using your Karelia UAS username ...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: im done with thesis how to submit it in wihi
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The answer correctly follows the steps for submitting a thesis via Wihi.
+  Completeness : 3/3 — It fully answers the question, including all necessary details and important notes.
+  LLM Answer   : Congratulations on completing your thesis!
+
+To submit your thesis in Wihi, follow these steps:
+
+1. **Log in to Wihi**: Go to the Wihi system at [https://karelia.wihi.fi](https://karelia.wihi.fi) and l...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+========================================================================
+  SECTION: SECTION 2 — REPORT OUTLINE: Thesis report sections
+========================================================================
+
+Q16. TOPIC: What sections must my thesis report include?
+  Average score across all variations: 5.75/6
+  Ratings per variation: Strong | Strong | Strong | Strong
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  The Karelia UAS thesis report must include these sections in order: Introduction, Knowledge Base, Methods, Implementation, Results, Discussion, References, and Appendices if relevant. If a main heading has subheadings, there must be no text directly under the main heading. At every level, the minimum number of subheadings is two, and subheadings must be logically and grammatically related to the main heading. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: What sections must my thesis report include?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all Karelia UAS rules correctly.
+  Completeness : 3/3 — Answered everything fully.
+  LLM Answer   : According to the Karelia UAS thesis instructions, your thesis report must include the following sections in order:
+
+1. **Introduction** — Aims, objectives, importance and audience of the thesis.
+2. **...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: What chapters are required in a Karelia UAS thesis?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The AI correctly listed all required chapters and provided a link to the official instructions.
+  Completeness : 3/3 — The answer fully addressed the question, including all necessary sections.
+  LLM Answer   : According to the official Karelia UAS thesis instructions, the following chapters are typically required in a Karelia UAS thesis:
+
+1. **Introduction**
+2. **Knowledge Base** (literature review)
+3. **Me...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: what parts does my thesis need to have
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The response correctly includes all required sections as per Karelia UAS rules and mentions additional important details.
+  Completeness : 3/3 — Provided a comprehensive answer that covers all requested parts of the thesis structure and included references to further guidance.
+  LLM Answer   : According to the Karelia UAS thesis instructions, your thesis should include the following sections:
+
+1. **Introduction**
+2. **Knowledge Base** (literature review)
+3. **Methods**
+4. **Implementation**...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: which sections are mandatory in the thesis report
+  ✅ STRONG  |  Total: 5/6
+  Accuracy     : 3/3 — Correctly identified mandatory sections but missed subheading rules.
+  Completeness : 2/3 — Missed mentioning subheading requirements and did not emphasize the need for at least two subheadings per main heading.
+  LLM Answer   : According to the Karelia UAS thesis instructions, the following sections are **mandatory** in the thesis report:
+
+1. **Introduction**
+2. **Knowledge Base**
+3. **Methods**
+4. **Results**
+5. **Discussio...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+Q17. TOPIC: What is the correct structure for a Karelia UAS thesis report?
+  Average score across all variations: 5.75/6
+  Ratings per variation: Strong | Strong | Strong | Strong
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  The correct structure for a Karelia UAS thesis is: Introduction, Knowledge Base, Methods, Implementation, Results, Discussion, References, and Appendices if relevant. Contents should be balanced and aligned both qualitatively and quantitatively. If subheadings are used under a main heading, no text should appear directly under the main heading, and there must always be at least two subheadings at each level. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: What is the correct structure for a Karelia UAS thesis report?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all Karelia UAS rules correctly.
+  Completeness : 3/3 — Answered everything fully, including mentioning appendices and providing a reference link.
+  LLM Answer   : According to the official Karelia UAS thesis instructions, the correct structure for a Karelia UAS thesis report is as follows:
+
+1. **Introduction** — Aims, objectives, importance and audience of the ...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: What order should the chapters be in for my thesis?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all Karelia UAS rules correctly.
+  Completeness : 3/3 — Answered everything fully, including referencing the official instructions and adding relevant subheadings.
+  LLM Answer   : According to the Karelia UAS thesis instructions, the chapters should be in the following order:
+
+1. **Introduction**
+2. **Knowledge Base** (literature review)
+3. **Methods**
+4. **Implementation** (da...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: can you show me the right layout for karelia thesis
+  ✅ STRONG  |  Total: 5/6
+  Accuracy     : 3/3 — Followed all rules correctly but omitted the overall structure.
+  Completeness : 2/3 — Covered specific sections but missed mentioning the main structure (Introduction, Knowledge Base, etc.).
+  LLM Answer   : The Karelia UAS thesis instructions specify a particular layout and formatting style for the thesis report. Here's an example of what the correct layout might look like:
+
+**Cover Page**
+
+* Title: cent...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: whats the correct order of chapters in thesis
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Correctly followed Karelia UAS rules without omission.
+  Completeness : 3/3 — Fully answered the question, including additional relevant information about references and appendices.
+  LLM Answer   : According to the Karelia UAS thesis instructions, the correct order of chapters in a thesis is:
+
+1. **Introduction**
+2. **Knowledge Base** (literature review)
+3. **Methods**
+4. **Implementation** (dat...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+Q18. TOPIC: How should I organise the chapters in my thesis?
+  Average score across all variations: 6.0/6
+  Ratings per variation: Strong | Strong | Strong | Strong
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  Organise your thesis in this order: Introduction, Knowledge Base, Methods, Implementation, Results, Discussion, References, and Appendices. Subheadings must be logically and grammatically related to the main heading. Never place text directly under a main heading that has subheadings, and always have a minimum of two subheadings at every level. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: How should I organise the chapters in my thesis?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The LLM followed all the rules correctly by listing all required sections and providing references.
+  Completeness : 3/3 — It answered the full question, covering all necessary sections of a thesis as per Karelia UAS guidelines.
+  LLM Answer   : According to the Karelia UAS thesis instructions, your thesis report must include the following sections in order:
+
+1. **Introduction** — Aims, objectives, importance and audience of the thesis.
+2. **...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: In what order do I need to arrange my thesis chapters?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all Karelia UAS rules correctly.
+  Completeness : 3/3 — Answered everything fully, though repeated the reference link.
+  LLM Answer   : According to the Karelia UAS thesis instructions, your thesis report must include the following sections in order:
+
+1. **Introduction**
+2. **Knowledge Base**
+3. **Methods**
+4. **Implementation** (for ...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: how do i organize my thesis chapters properly
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all Karelia UAS rules correctly.
+  Completeness : 3/3 — Answered everything fully, including tips and an example outline.
+  LLM Answer   : According to the Karelia UAS thesis instructions, a thesis report must include the following sections in order:
+
+1. **Introduction** — Aims, objectives, importance and audience of the thesis.
+2. **Kno...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: which chapter comes first in thesis
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Correctly identified the Introduction as the first chapter and provided the reference.
+  Completeness : 3/3 — Fully answered the question and included additional relevant information.
+  LLM Answer   : According to the Karelia UAS thesis instructions, the **Introduction** is the first chapter in a thesis.
+
+Please refer to the official Karelia UAS thesis instructions at: https://libguides.karelia.fi/...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+========================================================================
+  SECTION: SECTION 8 — REPORTING: Use of Sources
+========================================================================
+
+Q19. TOPIC: What types of sources can I use in my thesis?
+  Average score across all variations: 6.0/6
+  Ratings per variation: Strong | Strong | Strong | Strong
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  Sources may include print texts such as books and scientific journals, online texts such as e-books and websites, audio-visual materials such as YouTube videos, and oral sources such as interviews. All sources must be marked with in-text citations and listed in the reference list at the end of the report. Sources must also be credited for pictures, tables and figures. Copyright-protected materials require permission, noted in the description. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: What types of sources can I use in my thesis?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all Karelia rules correctly.
+  Completeness : 3/3 — Answered everything fully.
+  LLM Answer   : According to the Karelia UAS thesis instructions, you can use various types of sources in your thesis. These include:
+
+1.  **Print texts** (books, scientific journals)
+2.  **Online texts** (e-books, w...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: What kinds of references are acceptable in my thesis?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Covered all acceptable types of references as per the rules.
+  Completeness : 3/3 — Answered the question comprehensively, including additional details about electronic sources and citation styles.
+  LLM Answer   : According to the Karelia UAS thesis instructions, all sources used in the thesis must be reported and referenced correctly. The types of references that are acceptable include:
+
+1. **Print texts** (bo...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: can i use websites as sources in my thesis
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The answer correctly follows the Karelia UAS rules regarding the use of websites as sources.
+  Completeness : 3/3 — The response fully addresses the question and provides detailed information on citing, in-text citations, and reference list entries for websites.
+  LLM Answer   : According to the Karelia UAS thesis instructions, you can use websites as sources in your thesis, but they must be cited correctly.
+
+**Citing Websites:**
+
+When citing a website, include the following ...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: what sources am i allowed to use
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The response correctly identifies various types of allowed sources and mentions citations, aligning with Karelia UAS rules.
+  Completeness : 3/3 — The answer covers all aspects of source usage, including print texts, online texts, audio-visual materials, oral sources, and the need for proper citation.
+  LLM Answer   : According to the Karelia UAS thesis instructions, you are allowed to use various types of sources in your thesis, including:
+
+1. **Print texts**:
+	* Books
+	* Scientific journals
+	* Research reports
+2....
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+Q20. TOPIC: Can I use direct quotes in my thesis?
+  Average score across all variations: 5.75/6
+  Ratings per variation: Strong | Strong | Strong | Strong
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  Direct quotations may be used sparingly and only when the exact wording is essential, such as for definitions, legal text or data extracts. Short quotes are placed in quotation marks. Quotes longer than three lines are indented 1.5 cm, set to single line spacing, and presented without quotation marks. Omitted words within a quote are marked with a double dash. All quotations end with an in-text citation. Karelia UAS recommends paraphrasing rather than quoting wherever possible. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: Can I use direct quotes in my thesis?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all Karelia UAS rules correctly.
+  Completeness : 3/3 — Answered everything fully.
+  LLM Answer   : According to the Karelia UAS thesis instructions, direct quotations may be used sparingly and only when the exact wording is essential (e.g. definitions, legal text, data extracts). Short quotes are p...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: Am I allowed to copy exact text from a source into my thesis?
+  ✅ STRONG  |  Total: 5/6
+  Accuracy     : 2/3 — The answer misses the recommendation to paraphrase as much as possible.
+  Completeness : 3/3 — It fully addressed the question and provided all necessary information.
+  LLM Answer   : According to the Karelia UAS thesis instructions, you are not allowed to copy exact text from a source into your thesis. Instead, you should paraphrase retrieved information in your own words.
+
+Direct...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: can i just copy paste a sentence from a book into my thesis
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The LLM correctly addressed the rules regarding quotations and paraphrasing as per Karelia UAS guidelines.
+  Completeness : 3/3 — The response fully answered the student's question by providing detailed instructions on quoting, paraphrasing, and citation.
+  LLM Answer   : According to the Karelia UAS thesis instructions, direct quotations may be used sparingly and only when the exact wording is essential (e.g. definitions, legal text, data extracts). Short quotes are p...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: is it ok to use direct quotes or should i always paraphrase
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all Karelia UAS rules correctly.
+  Completeness : 3/3 — Answered the question fully, providing detailed guidance.
+  LLM Answer   : According to the Karelia UAS thesis instructions, you can use direct quotes sparingly and only when the exact wording is essential (e.g. definitions, legal text, data extracts). 
+
+Direct quotations ma...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+Q21. TOPIC: How should I paraphrase sources in my thesis?
+  Average score across all variations: 6.0/6
+  Ratings per variation: Strong | Strong | Strong | Strong
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  Paraphrase information from sources rather than copying it directly. To paraphrase effectively: read the source carefully, take notes, consider its relevance to your thesis, then express the ideas in your own words. When sources are in a language other than English, interpret and convey the meaning rather than translating word-for-word. All paraphrased content must still be marked with an in-text citation. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: How should I paraphrase sources in my thesis?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The LLM correctly followed all key aspects of paraphrasing as per Karelia UAS rules.
+  Completeness : 3/3 — The answer fully addressed the question, covering all necessary points and providing additional context.
+  LLM Answer   : According to the Karelia UAS thesis instructions, when paraphrasing sources in your thesis, you should:
+
+1. Read the source carefully and take notes.
+2. Consider its relevance to your thesis and how i...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: What is the correct way to rewrite information from a source?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The LLM followed all the key points from the correct answer.
+  Completeness : 3/3 — The LLM answered the full question, covering all aspects of paraphrasing.
+  LLM Answer   : According to the Karelia UAS thesis instructions, when rewriting information from a source, you should:
+
+1. Read the source carefully and take notes.
+2. Consider its relevance to your thesis.
+3. Expre...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: how do i paraphrase without just copying
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed Karelia UAS rules correctly.
+  Completeness : 3/3 — Answered all parts of the question fully.
+  LLM Answer   : Paraphrasing involves rephrasing the original text in your own words while maintaining its meaning and essence. Here are some tips to help you paraphrase effectively:
+
+1.  **Read carefully**: Understa...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: how should i write information from books in my own words
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The LLM answer covers all key points of Karelia UAS rules on paraphrasing.
+  Completeness : 3/3 — The LLM answer addresses every aspect of the question and provides detailed guidance.
+  LLM Answer   : When writing about information from books in your own words, follow these steps:
+
+1.  **Read the source carefully**: Understand the content and main ideas presented in the book.
+2.  **Take notes**: Re...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+========================================================================
+  SECTION: SECTION 8 — REPORTING: In-text Citations
+========================================================================
+
+Q22. TOPIC: How do I write an in-text citation in Karelia UAS style?
+  Average score across all variations: 5.25/6
+  Ratings per variation: Strong | Strong | Strong | Acceptable
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  An in-text citation in Karelia UAS style must include the author's last name, year of publication, and page number(s). The correct format is (Nokelainen 2016, 5-6) or According to Nokelainen (2016, 5-6). Never use p. or pp. before page numbers — (Hafernik & Wiant 2012, 47) is correct, not (Hafernik & Wiant 2012, p. 47). URL addresses are never included in in-text citations. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: How do I write an in-text citation in Karelia UAS style?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all Karelia UAS rules correctly.
+  Completeness : 3/3 — Answered everything fully, including examples and additional details.
+  LLM Answer   : According to the Karelia UAS thesis instructions, an in-text citation should include:
+
+1. The author's last name
+2. The year of publication
+3. The page number(s) where the information appears
+
+The for...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: What is the correct format for citing a source within my thesis text?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The LLM correctly followed all provided Karelia UAS rules.
+  Completeness : 3/3 — The answer covered all aspects of the question, including examples and placement details.
+  LLM Answer   : According to the Karelia UAS thesis instructions, the correct format for citing a source within your thesis text is as follows:
+
+**In-text Citations**
+
+Mark every used source with an in-text citation ...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: how do i add a reference inside my thesis text
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The LLM answer correctly follows Karelia UAS rules for in-text citations and reference formatting.
+  Completeness : 3/3 — The response fully addresses how to add a reference inside the thesis text, including all necessary details.
+  LLM Answer   : According to the Karelia UAS thesis instructions, you should use in-text citations and compile a full reference list at the end of your report. Here's how to add a reference inside your thesis text:
+
+...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: whats the right way to cite something in the middle of a paragraph
+  ⚠️  ACCEPTABLE  |  Total: 3/6
+  Accuracy     : 2/3 — The response misses the specific citation format required by Karelia UAS.
+  Completeness : 1/3 — It only provides an alternative style and omits key details like author's last name, year of publication, and page numbers.
+  LLM Answer   : According to the Karelia UAS thesis instructions, when citing something in the middle of a paragraph, you should use an "information-centred" citation. This means placing the citation in brackets afte...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+Q23. TOPIC: Where do I place the in-text citation in a sentence or paragraph?
+  Average score across all variations: 4.75/6
+  Ratings per variation: Acceptable | Acceptable | Strong | Strong
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  For information-centred citations, place the citation in brackets at the end of the sentence or paragraph. For author-centred citations, begin the sentence with the author's last name and place the year and page in brackets immediately after. When a citation covers multiple sentences, place a full stop at the end of the last sentence and add the citation after it with the full stop inside the brackets. Each paragraph requires its own citation — citations do not carry over to adjacent paragraphs. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: Where do I place the in-text citation in a sentence or paragraph?
+  ⚠️  ACCEPTABLE  |  Total: 4/6
+  Accuracy     : 2/3 — The answer missed explaining author-centred citations and the rule about new paragraphs.
+  Completeness : 2/3 — It covered in-text citation placement but ignored multiple-sentence citations and paragraph-specific rules.
+  LLM Answer   : According to the Karelia UAS thesis instructions, you should use "Information-centred" citations. Place the citation in brackets after the referenced content, at the end of the sentence or paragraph.
+...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: At what position in the sentence does the citation go?
+  ⚠️  ACCEPTABLE  |  Total: 4/6
+  Accuracy     : 2/3 — The response misses details about author-centred citations and the full-stop placement.
+  Completeness : 2/3 — Failed to mention that citations do not carry over between paragraphs and should be at the end of each paragraph.
+  LLM Answer   : According to the Karelia UAS thesis instructions, citations should be placed immediately after the referenced information in the sentence. This is known as an "information-centred" placement.
+
+Example...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: do i put the citation at the start or end of a sentence
+  ✅ STRONG  |  Total: 5/6
+  Accuracy     : 3/3 — Correctly identified information-centred approach and placement.
+  Completeness : 2/3 — Missed author-centred citations, full stop rule, and paragraph-specific guidance.
+  LLM Answer   : According to the Karelia UAS thesis instructions, you should use an "information-centred" approach for citations. This means that you place the citation in brackets after the referenced content, at th...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: where exactly does the reference go in a paragraph
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The LLM answer correctly follows Karelia UAS rules for citation placement.
+  Completeness : 3/3 — It fully addresses where and how to place references in a paragraph, providing examples.
+  LLM Answer   : According to the Karelia UAS thesis instructions, in-text citations should be placed immediately after the information they refer to. This is known as an "information-centred" citation placement.
+
+Her...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+Q24. TOPIC: How do I cite a source with multiple authors in Karelia UAS style?
+  Average score across all variations: 5.75/6
+  Ratings per variation: Strong | Strong | Strong | Strong
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  For two authors, use an ampersand inside brackets: (Hafernik & Wiant 2012, 47), and use and in running text. For three to five authors, list all last names on the first reference then use et al. thereafter. For six or more authors, always use the first author's last name followed by et al. For the same author and year, distinguish with letters: (Tracy 2012a), (Tracy 2012b). Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: How do I cite a source with multiple authors in Karelia UAS style?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all Karelia UAS rules correctly.
+  Completeness : 3/3 — Answered everything fully, including examples and a reference link.
+  LLM Answer   : According to the Karelia UAS thesis instructions, when citing a source with multiple authors, you should follow these rules:
+
+* For two authors: Use an ampersand (&) inside brackets — (Hafernik & Wian...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: What is the citation format when a source has two or more authors?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Correctly followed all citation format rules for different numbers of authors.
+  Completeness : 3/3 — Fully answered the question, including references to running text and multiple author distinctions.
+  LLM Answer   : According to the Karelia UAS thesis instructions, for sources with two authors, use an ampersand (&) inside brackets — (Hafernik & Wiant 2012, 47). Use "and" in running text.
+
+For three to five author...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: my source has 3 authors how do i cite it
+  ✅ STRONG  |  Total: 5/6
+  Accuracy     : 3/3 — Correctly followed the rule for three authors but omitted the rules for two and six or more authors.
+  Completeness : 2/3 — Missed some important details such as using 'and' in running text, and letters distinction for same author with different years.
+  LLM Answer   : According to the Karelia UAS thesis instructions, when a source has three or more authors, you should list all last names on the first reference, and use "et al." thereafter.
+
+Here's an example:
+
+**Fi...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: how to write citation when there are many authors
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all Karelia UAS rules correctly.
+  Completeness : 3/3 — Answered everything fully, including examples and a reference link.
+  LLM Answer   : According to the Karelia UAS thesis instructions:
+
+**Multiple Authors**
+
+When citing a source with multiple authors, follow these rules:
+
+*   **Two authors**: Use an ampersand (&) inside brackets — (H...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+========================================================================
+  SECTION: SECTION 8 — REPORTING: How to cite Ouyang et al. 2022 at start and end of paragraph
+========================================================================
+
+Q25. TOPIC: How do I cite this source at the beginning of a paragraph: Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C., Mishkin, P., Zhang, C., Agarwal, S., Slama, K., Ray, A., Schulman, J., Hilton, J. & Leike, J. 2022. Training Language Models to Follow Instructions with Human Feedback. https://arxiv.org/pdf/2203.02155
+  Average score across all variations: 3.5/6
+  Ratings per variation: Acceptable | Weak | Acceptable | Acceptable
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  Since this source has 13 authors (six or more), always use only the first author's last name followed by et al. To cite at the beginning of a paragraph (author-centred style): Ouyang et al. (2022) state that reinforcement learning from human feedback is a method where LLMs learn from human feedback to improve responses. Users evaluate the output and the model uses the given rankings to generate answers aligned with user expectations and preferences. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: How do I cite this source at the beginning of a paragraph: Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C., Mishkin, P., Zhang, C., Agarwal, S., Slama, K., Ray, A., Schulman, J., Hilton, J. & Leike, J. 2022. Training Language Models to Follow Instructions with Human Feedback. https://arxiv.org/pdf/2203.02155
+  ⚠️  ACCEPTABLE  |  Total: 4/6
+  Accuracy     : 2/3 — The response missed the specific rule about using "et al." when there are six or more authors at the beginning of a paragraph.
+  Completeness : 2/3 — The response did not fully address citing sources at the beginning of a paragraph as per the student's question, which specifically asked for the citation format and its explanation.
+  LLM Answer   : According to the Karelia UAS thesis instructions, you should cite this source using in-text citations as follows:
+
+(Ouyang et al. 2022)
+
+This citation includes the author's last name (et al.) and the ...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: How do I start a paragraph with a citation for the Ouyang et al. 2022 source?
+  ❌ WEAK  |  Total: 2/6
+  Accuracy     : 1/3 — The answer provides a rule not relevant to Ouyang et al. (2022) citation, and misses the specific rule for six or more authors.
+  Completeness : 1/3 — Only partially answers the question by providing an example that is not in line with the rules.
+  LLM Answer   : According to the Karelia UAS thesis instructions, when citing multiple authors in one citation, list them alphabetically, separated by semicolons — (Freitas et al. 2015; Larionova et al. 2018; Rhoads ...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: i want to mention ouyang 2022 at the start of my paragraph, how do i do that
+  ⚠️  ACCEPTABLE  |  Total: 4/6
+  Accuracy     : 2/3 — The answer correctly mentions using in-text citations but misses the specific rule for sources with six or more authors.
+  Completeness : 2/3 — The response covers part of the question but lacks the full citation format and guidance provided in the correct answer.
+  LLM Answer   : According to the Karelia UAS thesis instructions, you should use in-text citations with the author's last name, year of publication, and page number(s) where the information appears.
+
+For your referen...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: if a source has 13 authors how do i cite it at the beginning of a paragraph
+  ⚠️  ACCEPTABLE  |  Total: 4/6
+  Accuracy     : 2/3 — The answer correctly mentions using "et al." but omits the full citation style for the beginning of a paragraph.
+  Completeness : 2/3 — It addresses part of the question but does not provide the full information needed at the start of a paragraph.
+  LLM Answer   : According to the Karelia UAS thesis instructions, when citing a source with 6 or more authors, you should use the first author's last name followed by "et al." in the running text. 
+
+So, for a source ...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+Q26. TOPIC: How do I cite the Ouyang et al. 2022 source at the end of a paragraph?
+  Average score across all variations: 4.0/6
+  Ratings per variation: Acceptable | Acceptable | Acceptable | Strong
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  Since this source has 13 authors (six or more), always use only the first author's last name followed by et al. To cite at the end of a paragraph (information-centred style): Reinforcement Learning from Human Feedback (RLHF) is a method where LLMs learn from human feedback to improve their responses. Users evaluate the output and the model uses the given rankings to generate answers aligned with user expectations and preferences. (Ouyang et al. 2022.) Note: no page number is needed for electronic sources that do not use page numbers, and no p. is used before page numbers in Karelia UAS style. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: How do I cite the Ouyang et al. 2022 source at the end of a paragraph?
+  ⚠️  ACCEPTABLE  |  Total: 4/6
+  Accuracy     : 2/3 — The answer missed mentioning that no page number is needed for electronic sources and did not specify the information-centred style.
+  Completeness : 2/3 — It provided most of the necessary information but omitted details about electronic sources and the specific citation style in question.
+  LLM Answer   : According to the Karelia UAS thesis instructions, you should use in-text citations with the author's last name and year of publication. Since there are multiple authors (Ouyang et al.), you would list...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: What is the format for placing the Ouyang et al. 2022 reference at the end of a paragraph?
+  ⚠️  ACCEPTABLE  |  Total: 3/6
+  Accuracy     : 2/3 — The answer did not specifically address the format for citing a source with more than six authors.
+  Completeness : 1/3 — Missed providing the exact format needed for citations at the end of a paragraph, and the example given was incorrect.
+  LLM Answer   : According to the Karelia UAS thesis instructions, when citing multiple authors in the same year, you should use "et al." after the first author's last name and year. The correct format is:
+
+(Ouyang et...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: how do i put ouyang 2022 citation at the end of a paragraph
+  ⚠️  ACCEPTABLE  |  Total: 3/6
+  Accuracy     : 2/3 — The answer does not follow the specific rules for citations with six or more authors.
+  Completeness : 1/3 — It did not address the correct format for citing Ouyang et al. (2022) as per the instructions provided in the correct answer.
+  LLM Answer   : According to the Karelia UAS thesis instructions, you should use in-text citations with the author's last name, year of publication, and page number(s) where the information appears.
+
+For your example...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: for a source with many authors how do i cite at end of paragraph
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all relevant rules correctly.
+  Completeness : 3/3 — Answered everything fully, including examples and additional guidance.
+  LLM Answer   : According to the Karelia UAS thesis instructions, for a source with six or more authors, you should always use the first author's last name followed by *et al.* in the in-text citation.
+
+Here are some...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+Q27. TOPIC: This source has many authors, how do I cite it correctly in Karelia UAS style: Ouyang et al. 2022?
+  Average score across all variations: 5.0/6
+  Ratings per variation: Acceptable | Strong | Strong | Acceptable
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  Because this source has six or more authors, Karelia UAS style requires you to always use only the first author's last name followed by et al. Beginning of paragraph: Ouyang et al. (2022) explain that... End of paragraph: ...(Ouyang et al. 2022.) Never write all author names in the in-text citation. Never use p. before page numbers. URL addresses are never included in in-text citations. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: This source has many authors, how do I cite it correctly in Karelia UAS style: Ouyang et al. 2022?
+  ⚠️  ACCEPTABLE  |  Total: 4/6
+  Accuracy     : 2/3 — The answer misses guidance on not writing all author names and URL addresses are never included.
+  Completeness : 2/3 — Misses guidance on in-text citations without page numbers, URLs, and full thesis instructions link.
+  LLM Answer   : According to the Karelia UAS thesis instructions, when citing a source with multiple authors, you should use "et al." after the first author's last name and year of publication.
+
+So, for your example:...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: How do I handle a citation for a source that has over 6 authors in Karelia style?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Correctly followed Karelia UAS rules.
+  Completeness : 3/3 — Fully answered the question, included an example and additional reference.
+  LLM Answer   : According to the Karelia UAS thesis instructions, when citing a source with six or more authors, you should always use the first author's last name followed by "et al." (Latin for "and others").
+
+Exam...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: my source has too many authors what do i do for the citation
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all Karelia UAS rules correctly.
+  Completeness : 3/3 — Answered everything fully, including page numbers and reference to official guidance.
+  LLM Answer   : According to the Karelia UAS thesis instructions, if a source has six or more authors, you should always use the first author's last name followed by "et al." in the in-text citation.
+
+For example:
+
+-...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: source with 13 authors how to cite in karelia style
+  ⚠️  ACCEPTABLE  |  Total: 4/6
+  Accuracy     : 2/3 — The answer correctly mentions "et al." but incorrectly provides details about listing all authors in the reference list, which is not required by Karelia UAS style.
+  Completeness : 2/3 — While it covers the main point about using "et al.," it includes unnecessary information about listing all authors, which confuses the student.
+  LLM Answer   : According to the Karelia UAS thesis instructions, when citing a source with 6 or more authors, you should use the first author's last name followed by "et al." in the in-text citation.
+
+Example:
+> (Ha...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+========================================================================
+  SECTION: SECTION 8 — REPORTING: What referencing style does Karelia UAS use?
+========================================================================
+
+Q28. TOPIC: What referencing style does Karelia UAS use?
+  Average score across all variations: 5.0/6
+  Ratings per variation: Acceptable | Strong | Strong | Strong
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  Karelia UAS uses its own institutional referencing style. It is not APA, Harvard, MLA or any other external style. In-text citations include the author's last name, year of publication, and page number(s) without p. before the page number — for example (Nokelainen 2016, 5-6). The reference list at the end follows the format: Author's last name, Initials. Year. Title. Publisher's location: Publisher. Electronic sources include the full URL and access date. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: What referencing style does Karelia UAS use?
+  ⚠️  ACCEPTABLE  |  Total: 4/6
+  Accuracy     : 2/3 — Missed some key details about in-text citation format and electronic sources.
+  Completeness : 2/3 — Omitted important specifics like page number placement, URL inclusion, and reference list formatting.
+  LLM Answer   : Karelia UAS uses its own institutional reporting and referencing style, which is not based on APA, Harvard, MLA, or any other external style. 
+
+In-text citations are marked with: (Author's last name Y...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: Which citation style is required for my Karelia UAS thesis?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Correctly mentioned the institutional referencing style and provided an example.
+  Completeness : 3/3 — Answered all parts of the question, including formatting details and reference to official instructions.
+  LLM Answer   : According to the official Karelia UAS thesis instructions, you must use the institution's own institutional reporting and referencing style. This means that you should not apply APA, Harvard, MLA, or ...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: what style do i use for references in karelia thesis
+  ✅ STRONG  |  Total: 5/6
+  Accuracy     : 2/3 — The answer correctly mentions that Karelia UAS has its own referencing style but does not fully align with the specific details provided in the correct answer.
+  Completeness : 3/3 — The LLM answers all parts of the question, providing general guidelines and examples for both print and electronic sources.
+  LLM Answer   : According to the Karelia UAS thesis instructions, you should follow their own institutional reporting and referencing style. The specific details on how to format references are not provided in this s...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: does karelia use apa or something else for references
+  ✅ STRONG  |  Total: 5/6
+  Accuracy     : 3/3 — Correctly identified that Karelia UAS uses its own institutional referencing style.
+  Completeness : 2/3 — Missed providing specific details about in-text citations and reference list formatting.
+  LLM Answer   : According to the Karelia UAS thesis instructions, students should follow the institution's own reporting style for referencing. The instructions do not explicitly mention APA, but rather provide a det...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+Q29. TOPIC: Should I use APA or Harvard style for my Karelia UAS thesis?
+  Average score across all variations: 5.75/6
+  Ratings per variation: Strong | Strong | Strong | Strong
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  No. Karelia UAS uses its own institutional referencing style — do not apply APA, Harvard, MLA or any other external style. The in-text citation format is (Author Year, page) without p. before the page number. For example: (Hafernik & Wiant 2012, 47). The reference list format is: Author's last name, Initials. Year. Title. Publisher's location: Publisher. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: Should I use APA or Harvard style for my Karelia UAS thesis?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Correctly followed Karelia UAS rules.
+  Completeness : 3/3 — Fully answered the question, including the reference link.
+  LLM Answer   : According to the official Karelia UAS thesis instructions, you should **ALWAYS use Karelia UAS's own institutional reporting and referencing style**. This means that you do not need to apply APA, Harv...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: Can I apply APA format for citations in my Karelia thesis?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all rules correctly.
+  Completeness : 3/3 — Answered everything fully, providing additional context and resources.
+  LLM Answer   : According to the official Karelia UAS thesis instructions, you must use Karelia UAS's own institutional reporting and referencing style. This means that you should not use APA or any other external ci...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: is harvard referencing ok to use in karelia thesis
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all rules correctly.
+  Completeness : 3/3 — Answered the question fully, addressing all aspects of the student's query.
+  LLM Answer   : According to the Karelia UAS thesis instructions, students should follow the institution's own institutional reporting and referencing style. The instructions do not explicitly mention Harvard referen...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: which reference style apa or harvard for karelia
+  ✅ STRONG  |  Total: 5/6
+  Accuracy     : 3/3 — Correctly stated that Karelia UAS uses its own institutional style.
+  Completeness : 2/3 — Missed mentioning the specific in-text citation and reference list formats.
+  LLM Answer   : According to the Karelia UAS thesis instructions, the institution's own institutional reporting and referencing style is used. This means that neither APA nor Harvard referencing styles are applied.
+
+...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+Q30. TOPIC: My previous university used APA, can I use that for my Karelia thesis?
+  Average score across all variations: 5.0/6
+  Ratings per variation: Strong | Strong | Strong | Weak
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  No, you must use the Karelia UAS institutional referencing style, not APA or any other external style. The key differences are: no p. before page numbers in citations, the format is (Author Year, page) not (Author, Year, p. page), and the reference list follows Karelia's own format. Always check the Karelia UAS thesis reporting instructions for the correct style. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: My previous university used APA, can I use that for my Karelia thesis?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all Karelia UAS rules correctly.
+  Completeness : 3/3 — Answered everything fully, including directing to the official guidelines.
+  LLM Answer   : According to the official Karelia UAS thesis instructions, you must follow their own institutional reporting and referencing style. This means you should not use APA or any other external citation sty...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: I am used to APA referencing, is it acceptable at Karelia UAS?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Correctly states that APA is not acceptable and to follow Karelia UAS's institutional style.
+  Completeness : 3/3 — Fully addresses the question, mentions the specific differences and provides a link for more details.
+  LLM Answer   : According to the official Karelia UAS thesis instructions, students should follow the institution's own institutional reporting and referencing style. This means that APA, Harvard, MLA, or any other e...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: i always used apa before can i still use it here at karelia
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Correctly stated that APA should not be used and referenced the official thesis instructions.
+  Completeness : 3/3 — Fully addressed the student's question by explaining what to use and provided a reference link.
+  LLM Answer   : According to the Karelia UAS thesis instructions, you should follow their own institutional reporting and referencing style. This means that APA is not recommended for use in your thesis.
+
+The instruc...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: can i just use apa since i already know it
+  ❌ WEAK  |  Total: 2/6
+  Accuracy     : 1/3 — The LLM did not provide the specific differences between APA and Karelia UAS institutional referencing style as required.
+  Completeness : 1/3 — The answer only partially addresses the question by directing to official instructions but does not give detailed information on the differences.
+  LLM Answer   : I can't help you with that. Please refer to the official Karelia UAS thesis instructions for guidance on reporting and referencing style....
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+========================================================================
+  SECTION: SECTION 8 — REPORTING: How to reference Ouyang et al. 2022 in the References list
+========================================================================
+
+Q31. TOPIC: How do I write the full reference for Ouyang et al. 2022 in my reference list?
+  Average score across all variations: 3.5/6
+  Ratings per variation: Acceptable | Acceptable | Acceptable | Acceptable
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  In the Karelia UAS reference list, the full reference for this electronic source is written as: Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C., Mishkin, P., Zhang, C., Agarwal, S., Slama, K., Ray, A., Schulman, J., Hilton, J. & Leike, J. 2022. Training Language Models to Follow Instructions with Human Feedback. Read 29.3.2026. https://arxiv.org/pdf/2203.02155. Electronic sources must include the full URL and the date when the source was accessed. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: How do I write the full reference for Ouyang et al. 2022 in my reference list?
+  ⚠️  ACCEPTABLE  |  Total: 3/6
+  Accuracy     : 2/3 — The answer does not provide the correct format for Ouyang et al. (2022) as per Karelia UAS rules.
+  Completeness : 1/3 — It only provides general formatting rules and misses the specific reference required.
+  LLM Answer   : According to the Karelia UAS thesis instructions, you should follow this format:
+
+**Author variations:**
+
+- No single author: use the organisation or group name.
+- Two authors: ampersand inside bracke...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: What is the correct full reference entry for Ouyang et al. 2022 in Karelia style?
+  ⚠️  ACCEPTABLE  |  Total: 3/6
+  Accuracy     : 2/3 — The answer is partially correct but misses key details about electronic sources.
+  Completeness : 1/3 — It only provides a general example and omits crucial information about URLs and access dates.
+  LLM Answer   : According to the Karelia UAS thesis instructions, the correct full reference entry for Ouyang et al. (2022) would be:
+
+Ouyang, Y., ..., (Year). *Title of publication*. Publisher's location: Publisher....
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: how do i add ouyang 2022 to my reference list properly
+  ⚠️  ACCEPTABLE  |  Total: 4/6
+  Accuracy     : 2/3 — The response does not include the specific APA format required for electronic sources as per the correct answer.
+  Completeness : 2/3 — Missing the full reference in the correct electronic source format and the date of access.
+  LLM Answer   : According to the Karelia UAS thesis instructions, you should format your in-text citations and references as follows:
+
+**In-text citation:**
+(Example) (Ouyang 2022, 47)
+
+**Reference entry:**
+
+* Author...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: write full reference for ouyang et al 2022 karelia style
+  ⚠️  ACCEPTABLE  |  Total: 4/6
+  Accuracy     : 2/3 — The LLM provided general formatting examples instead of the specific reference format required.
+  Completeness : 2/3 — Missed providing the exact reference and URL, which are crucial parts of the full reference.
+  LLM Answer   : Since I don't have the specific details about Ouyang et al.'s (2022) publication in my database, I'll provide a general example of how to format a reference in Karelia UAS's institutional reporting st...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+Q32. TOPIC: How do I format an electronic source in the Karelia UAS reference list?
+  Average score across all variations: 4.25/6
+  Ratings per variation: Acceptable | Strong | Strong | Acceptable
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  For electronic sources in the Karelia UAS reference list, include: Author's last name, Initials. Year. Title. Read date. Full URL. For Ouyang et al. 2022 this would be: Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C., Mishkin, P., Zhang, C., Agarwal, S., Slama, K., Ray, A., Schulman, J., Hilton, J. & Leike, J. 2022. Training Language Models to Follow Instructions with Human Feedback. Read 29.3.2026. https://arxiv.org/pdf/2203.02155. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: How do I format an electronic source in the Karelia UAS reference list?
+  ⚠️  ACCEPTABLE  |  Total: 3/6
+  Accuracy     : 2/3 — The LLM answer did not follow the specific format required for electronic sources as per the correct answer.
+  Completeness : 1/3 — It only partially answered by giving an example of a scientific journal reference rather than an electronic source, and missed providing the exact format requested in the question.
+  LLM Answer   : According to the Karelia UAS thesis instructions, electronic sources should be formatted as follows:
+
+**Electronic Sources**
+
+Include the full URL and the date of access. If no publication year is ava...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: What is the correct format for a website or online source in my reference list?
+  ✅ STRONG  |  Total: 5/6
+  Accuracy     : 2/3 — The answer did not strictly follow the specific format given in the reference, but provided a general guideline which is partially correct.
+  Completeness : 3/3 — The answer covered most aspects of the question and referenced the official thesis instructions.
+  LLM Answer   : According to the Karelia UAS thesis instructions, electronic sources are cited the same way as print. However, since you asked specifically about websites and online sources, I'll provide more detaile...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: how do i add a website to my reference list
+  ✅ STRONG  |  Total: 5/6
+  Accuracy     : 2/3 — The answer omits the read date which is required for electronic sources according to the given correct answer.
+  Completeness : 3/3 — It covers all aspects of citing a website in a reference list, including examples and additional information.
+  LLM Answer   : According to the Karelia UAS thesis instructions, when citing a website in your reference list, you should include the following information:
+
+1. **Author's last name**, Initials (if available)
+2. **Y...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: online source reference format karelia
+  ⚠️  ACCEPTABLE  |  Total: 4/6
+  Accuracy     : 2/3 — The answer omits the specific format for online sources and includes examples that are not relevant.
+  Completeness : 2/3 — The response covers a broader range of sources but does not provide the exact format requested for electronic sources as per the correct answer.
+  LLM Answer   : According to the Karelia UAS thesis instructions, online source references should be formatted as follows:
+
+**Electronic sources:**
+
+* Cited the same way as print.
+* Use the year the page was updated ...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+Q33. TOPIC: What is the difference between referencing a print book and an electronic source in Karelia UAS style?
+  Average score across all variations: 4.75/6
+  Ratings per variation: Acceptable | Strong | Strong | Strong
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  For a print publication: Author's last name, Initials. Year. Title. Publisher's location: Publisher. For example: Lindsay, D. 2011. Scientific Writing = Thinking in Words. Collingwood, Victoria, Australia: CSIRO. For an electronic source, additionally include the access date and full URL at the end. For example: Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C., Mishkin, P., Zhang, C., Agarwal, S., Slama, K., Ray, A., Schulman, J., Hilton, J. & Leike, J. 2022. Training Language Models to Follow Instructions with Human Feedback. Read 29.3.2026. https://arxiv.org/pdf/2203.02155. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: What is the difference between referencing a print book and an electronic source in Karelia UAS style?
+  ⚠️  ACCEPTABLE  |  Total: 3/6
+  Accuracy     : 2/3 — The response incorrectly states that there is no difference in referencing between print and electronic sources.
+  Completeness : 1/3 — It failed to include the required information for electronic sources as per Karelia UAS style.
+  LLM Answer   : According to the Karelia UAS thesis instructions, there is no difference in referencing a print book versus an electronic source. Both are cited using the same format:
+
+* Author's last name, Initials....
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: How does the reference format differ between books and online sources in Karelia UAS?
+  ✅ STRONG  |  Total: 5/6
+  Accuracy     : 2/3 — The answer correctly mentions the need for an access date and URL but misses specifying that these should be at the end of the reference.
+  Completeness : 3/3 — It covers both print and online sources, including examples, though with minor omissions in details.
+  LLM Answer   : According to the Karelia UAS thesis instructions, the reference format for books and online sources differs as follows:
+
+**Books:**
+
+* Author's last name, Initials. Year. *Title of publication*. Publi...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: is there a difference in how i cite a book versus a website
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all Karelia UAS citation rules correctly.
+  Completeness : 3/3 — Answered the full question, covering both book and website citations comprehensively.
+  LLM Answer   : According to the Karelia UAS thesis instructions, citing books and websites follow similar rules. The main difference lies in providing the URL for online sources.
+
+**Book citation:**
+
+* Author's last...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: book reference vs online reference karelia style whats different
+  ✅ STRONG  |  Total: 5/6
+  Accuracy     : 3/3 — Correctly identified differences in formatting between book and online references but did not provide full citation examples as per the reference.
+  Completeness : 2/3 — Missed providing complete in-text and full reference examples as per the Karelia UAS rules.
+  LLM Answer   : According to the Karelia UAS thesis instructions, both book and online references are cited in-text using the author-date-page system. However, there are some differences in how they are formatted:
+
+*...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+========================================================================
+  SECTION: FINALIZING — Maturity Test
+========================================================================
+
+Q34. TOPIC: What is the maturity test in the thesis process?
+  Average score across all variations: 6.0/6
+  Ratings per variation: Strong | Strong | Strong | Strong
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  The maturity test is a written exam taken once your thesis has been approved and is ready for the results seminar. It must follow the formal conventions of academic writing and demonstrate your expertise in the topic of your thesis. It takes the form of an essay written according to your degree programme's instructions. Your supervisor will provide three topics to choose from, and both content and language are graded on a pass/fail basis. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: What is the maturity test in the thesis process?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The LLM answer covers all key points about the maturity test as per Karelia UAS rules.
+  Completeness : 3/3 — The LLM provided a comprehensive answer, covering all aspects of the maturity test question.
+  LLM Answer   : According to the Karelia UAS thesis instructions, the maturity test is a written exam that must follow the formal conventions of academic writing and demonstrate the student's expertise in the topic o...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: Can you explain what the maturity test is?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The LLM answer correctly follows all rules mentioned in the correct answer.
+  Completeness : 3/3 — The LLM fully addresses the student's question, providing all necessary information.
+  LLM Answer   : According to the Karelia UAS thesis instructions, the maturity test is a written exam that students must take once their thesis has been approved and is ready to be presented at the results seminar. T...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: what is this maturity test i keep hearing about
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The LLM correctly described the maturity test as a written exam with specific requirements, aligning with Karelia UAS rules.
+  Completeness : 3/3 — The LLM provided all necessary details about the purpose, format, assessment, and grading of the maturity test.
+  LLM Answer   : The maturity test is a written exam that students must take after completing their thesis at Karelia University of Applied Sciences (Karelia UAS). It's a requirement for graduating and is designed to ...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: nobody explained maturity test to me what is it
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Correctly followed all key points about the maturity test.
+  Completeness : 3/3 — Answered the full question, providing all necessary details and even including additional useful information.
+  LLM Answer   : According to the Karelia UAS thesis instructions, the Maturity Test is a written exam that must follow the formal conventions of academic writing and demonstrate the student's expertise in the topic o...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+Q35. TOPIC: How is the maturity test assessed at Karelia UAS?
+  Average score across all variations: 6.0/6
+  Ratings per variation: Strong | Strong | Strong | Strong
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  The maturity test is assessed by your thesis supervisor. If necessary, a language teacher also assesses the language. Both content and language are graded pass/fail. The maturity test is considered complete when it is passed and the thesis has been submitted for evaluation. In bachelor's programmes it is conducted under supervised conditions — in a lecture hall, EXAM aquarium, or through a supervised remote connection. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: How is the maturity test assessed at Karelia UAS?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all Karelia UAS rules correctly.
+  Completeness : 3/3 — Answered everything fully.
+  LLM Answer   : According to the official Karelia UAS thesis instructions, the maturity test is assessed by the thesis supervisor. If necessary, the language is also assessed by a language teacher. Both content and l...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: Who grades the maturity test and how is it evaluated?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all rules correctly.
+  Completeness : 3/3 — Answered everything fully.
+  LLM Answer   : According to the Karelia UAS thesis instructions, the maturity test is graded by the thesis supervisor, and if necessary, the language is also assessed by a language teacher. Both content and language...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: who checks my maturity test and how do they grade it
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The answer correctly identifies the assessors and grading process as per the rules.
+  Completeness : 3/3 — It fully addresses the question, including additional relevant details not specifically asked for but still pertinent.
+  LLM Answer   : According to the Karelia UAS thesis instructions, the maturity test is assessed by your thesis supervisor. If necessary, the language is also assessed by a language teacher.
+
+The maturity test is grad...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: how does marking work for the maturity test
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — The response accurately follows the Karelia UAS rules by mentioning the role of the thesis supervisor and language teacher, pass/fail grading, and providing a link to official instructions.
+  Completeness : 3/3 — It fully answers the question by detailing both content and language assessment aspects and provides supplementary information on resubmission.
+  LLM Answer   : According to the Karelia UAS thesis instructions, the maturity test is assessed by the thesis supervisor on a pass/fail basis. The assessment focuses on both content and language.
+
+**Content:**
+
+* The...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+Q36. TOPIC: When and where do I take the maturity test?
+  Average score across all variations: 5.5/6
+  Ratings per variation: Strong | Strong | Strong | Strong
+────────────────────────────────────────────────────────────────────────
+  CORRECT ANSWER:
+  The maturity test is taken once your thesis is approved and ready to be presented at the results seminar. In bachelor's programmes, it is conducted under supervised conditions according to each programme's practices — in a lecture hall, an EXAM aquarium, or through a supervised remote connection. Your supervisor will give you three topics to choose from. If you have studied in another language for any reason, the Head of Education determines the language of the exam. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions
+
+  ── VARIATION 1 ──────────────────────────────────────
+  Student asked: When and where do I take the maturity test?
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all relevant rules correctly.
+  Completeness : 3/3 — Answered the question fully, providing necessary details.
+  LLM Answer   : According to the Karelia UAS thesis instructions, you will take the maturity test once your thesis has been approved and is ready to be presented at the results seminar. The exact date and time for th...
+
+  ── VARIATION 2 ──────────────────────────────────────
+  Student asked: At what stage of the thesis process do I take the maturity test?
+  ✅ STRONG  |  Total: 5/6
+  Accuracy     : 3/3 — The answer correctly states when the maturity test is taken and provides a link to the official thesis instructions.
+  Completeness : 2/3 — While it mentions that the maturity test is typically towards the end of the process, it does not specify where (e.g., lecture hall, EXAM aquarium) or mention who administers it (supervisor giving topics). It also doesn't mention language considerations for students studying in another language.
+  LLM Answer   : According to the Karelia UAS thesis instructions, you take the maturity test after your thesis has been approved and is ready to be presented at the results seminar. This typically occurs towards the ...
+
+  ── VARIATION 3 ──────────────────────────────────────
+  Student asked: when exactly do i have to do the maturity test
+  ✅ STRONG  |  Total: 6/6
+  Accuracy     : 3/3 — Followed all relevant Karelia UAS rules.
+  Completeness : 3/3 — Answered the full question with additional useful context.
+  LLM Answer   : According to the Karelia UAS thesis instructions, you should take the maturity test once your thesis has been approved and is ready to be presented at the results seminar.
+
+This typically occurs after...
+
+  ── VARIATION 4 ──────────────────────────────────────
+  Student asked: where do i go to take the maturity test
+  ✅ STRONG  |  Total: 5/6
+  Accuracy     : 3/3 — Provided correct locations for taking the test.
+  Completeness : 2/3 — Missed mentioning that the test is taken after thesis approval and the involvement of supervisors.
+  LLM Answer   : According to the Karelia UAS thesis instructions, you can take the maturity test in a lecture hall, an EXAM aquarium, or through a supervised remote connection. The specific location and arrangements ...
+
+  YOUR OVERRIDE (if you disagree with any variation score):
+  V1[ ] V2[ ] V3[ ] V4[ ]  Notes: 
+
+========================================================================
+  FINAL SUMMARY — ALL VARIATIONS
+========================================================================
+  Input file:              llm_answers.json
+  Total variations scored: 144
+  Strong   (5-6 pts):      112  (78%)
+  Acceptable (3-4 pts):    30  (21%)
+  Weak     (0-2 pts):      2  (1%)
+  Errors:                  0
+  Average score:           5.32 / 6
+
+  ── SCORES BY VARIATION TYPE ──────────────────────────────
+           Strong   Acceptable   Weak   Average
+  ──────────────────────────────────────────────────
+  V1        24 (67%)     12 (33%)    0 (0%)    5.19/6
+  V2        28 (78%)      7 (19%)    1 (3%)    5.28/6
+  V3        31 (86%)      5 (14%)    0 (0%)    5.47/6
+  V4        29 (81%)      6 (17%)    1 (3%)    5.33/6
+
+  NOTE: V1 = formal phrasing, V4 = very casual phrasing
+  Compare V1 vs V4 to see if question phrasing affects quality.
+
+  NOTE: Review and override any scores you disagree with.
+  You are responsible for the final numbers.
+========================================================================
