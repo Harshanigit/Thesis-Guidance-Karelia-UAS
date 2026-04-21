@@ -885,7 +885,7 @@ Q31. How do I write the full reference for Ouyang et al. 2022 in my reference li
 
   YOUR OVERRIDE (if you disagree):
   Accuracy [1 ]  Completeness [1 ]  Total [2 ]  Rating [ WEAK  ]
-  Notes: NOT FOLLOWED THE RULES AND ALSO NO CORRECT ANSWER.
+  Notes: HAVE NOT FOLLOWED THE RULES AND MISSED IMPORTANT INSTRUCTIONS. SO, NO CORRECT ANSWER.
 
 Q32. How do I format an electronic source in the Karelia UAS reference list?
 ────────────────────────────────────────────────────────────────────────
