@@ -2,7 +2,7 @@
   "results": [
     {
       "section": "PLANNING AND IMPLEMENTATION — Starting the Thesis Process",
-      "variations": [
+      "questions": [
         {
           "question": "How do I start my thesis process at Karelia UAS?",
           "correct_answer": "Start by choosing a topic based on your professional interest that relates to your specialisation field and its development perspectives. Discuss the topic with the person responsible for thesis processes in your programme. Once the topic is accepted, log in to Wihi at https://karelia.wihi.fi and submit your topic proposal. After approval in Wihi, an advisor is assigned and you can begin your literature review. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions",
@@ -22,7 +22,7 @@
     },
     {
       "section": "PLANNING AND IMPLEMENTATION — Literature Review",
-      "variations": [
+      "questions": [
         {
           "question": "What is a literature review and when should I write it?",
           "correct_answer": "The literature review is written after the approval of your topic and guidance form. It sets the premises and defines the knowledge base for your thesis. It must be approximately 10 pages long, concentrate on the key themes, concepts and knowledge base of your thesis, use correctly cited academic sources, have logical text organisation and headings, and follow the Karelia UAS thesis reporting instructions. Your supervisor will provide feedback for you to edit it. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions",
@@ -42,7 +42,7 @@
     },
     {
       "section": "PLANNING AND IMPLEMENTATION — Thesis Plan",
-      "variations": [
+      "questions": [
         {
           "question": "When can I start my thesis plan?",
           "correct_answer": "You can start drafting your thesis plan after your supervisor has approved your literature review. The plan is presented as instructed by your programme to assess its feasibility. Once approved, you move to the implementation phase — data collection for research-based theses, or production and documentation of implementation stages for practice-based theses. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions",
@@ -62,7 +62,7 @@
     },
     {
       "section": "PLANNING AND IMPLEMENTATION — Instructions for Wihi: Starting and Making a Topic Proposal",
-      "variations": [
+      "questions": [
         {
           "question": "How do I submit my topic proposal in Wihi?",
           "correct_answer": "Log in to Wihi at https://karelia.wihi.fi using your Karelia user ID and password. Create a topic proposal by entering your working title, start and end dates, thesis type (Product-based, Research, Portfolio-Diary, or Master's thesis), and a description of content, objectives and outcomes. If commissioned, add commissioner information. Before submitting, commit to complying with good scientific practice. The thesis coordinator is notified automatically once you submit. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions",
@@ -82,7 +82,7 @@
     },
     {
       "section": "PLANNING AND IMPLEMENTATION — Thesis Phases in Wihi",
-      "variations": [
+      "questions": [
         {
           "question": "What are the thesis phases in Wihi?",
           "correct_answer": "In Wihi at https://karelia.wihi.fi, the thesis has three phases. In Phase 1 and Phase 2, you advance the thesis with your advisor's support and when moving between phases, the evaluation (HYV = PASS) is transferred to Peppi. In Phase 3, you finalise the thesis, set the results seminar and maturity test dates, and submit the final version via Turnitin. After assessment, you upload to Theseus and copy the URN link back into Wihi to receive your final grade. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions",
@@ -102,7 +102,7 @@
     },
     {
       "section": "SECTION 2 — REPORT OUTLINE: Thesis report sections",
-      "variations": [
+      "questions": [
         {
           "question": "What sections must my thesis report include?",
           "correct_answer": "The Karelia UAS thesis report must include these sections in order: Introduction, Knowledge Base, Methods, Implementation, Results, Discussion, References, and Appendices if relevant. If a main heading has subheadings, there must be no text directly under the main heading. At every level, the minimum number of subheadings is two, and subheadings must be logically and grammatically related to the main heading. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions",
@@ -122,7 +122,7 @@
     },
     {
       "section": "SECTION 8 — REPORTING: Use of Sources",
-      "variations": [
+      "questions": [
         {
           "question": "What types of sources can I use in my thesis?",
           "correct_answer": "Sources may include print texts such as books and scientific journals, online texts such as e-books and websites, audio-visual materials such as YouTube videos, and oral sources such as interviews. All sources must be marked with in-text citations and listed in the reference list at the end of the report. Sources must also be credited for pictures, tables and figures. Copyright-protected materials require permission, noted in the description. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions",
@@ -142,7 +142,7 @@
     },
     {
       "section": "SECTION 8 — REPORTING: In-text Citations",
-      "variations": [
+      "questions": [
         {
           "question": "How do I write an in-text citation in Karelia UAS style?",
           "correct_answer": "An in-text citation in Karelia UAS style must include the author's last name, year of publication, and page number(s). The correct format is (Nokelainen 2016, 5-6) or According to Nokelainen (2016, 5-6). Never use p. or pp. before page numbers — (Hafernik & Wiant 2012, 47) is correct, not (Hafernik & Wiant 2012, p. 47). URL addresses are never included in in-text citations. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions",
@@ -162,7 +162,7 @@
     },
     {
       "section": "SECTION 8 — REPORTING: How to cite Ouyang et al. 2022 at start and end of paragraph",
-      "variations": [
+      "questions": [
         {
           "question": "How do I cite this source at the beginning of a paragraph: Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C., Mishkin, P., Zhang, C., Agarwal, S., Slama, K., Ray, A., Schulman, J., Hilton, J. & Leike, J. 2022. Training Language Models to Follow Instructions with Human Feedback. https://arxiv.org/pdf/2203.02155",
           "correct_answer": "Since this source has 13 authors (six or more), always use only the first author's last name followed by et al. To cite at the beginning of a paragraph (author-centred style): Ouyang et al. (2022) state that reinforcement learning from human feedback is a method where LLMs learn from human feedback to improve responses. Users evaluate the output and the model uses the given rankings to generate answers aligned with user expectations and preferences. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions",
@@ -182,7 +182,7 @@
     },
     {
       "section": "SECTION 8 — REPORTING: What referencing style does Karelia UAS use?",
-      "variations": [
+      "questions": [
         {
           "question": "What referencing style does Karelia UAS use?",
           "correct_answer": "Karelia UAS uses its own institutional referencing style. It is not APA, Harvard, MLA or any other external style. In-text citations include the author's last name, year of publication, and page number(s) without p. before the page number — for example (Nokelainen 2016, 5-6). The reference list at the end follows the format: Author's last name, Initials. Year. Title. Publisher's location: Publisher. Electronic sources include the full URL and access date. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions",
@@ -202,7 +202,7 @@
     },
     {
       "section": "SECTION 8 — REPORTING: How to reference Ouyang et al. 2022 in the References list",
-      "variations": [
+      "questions": [
         {
           "question": "How do I write the full reference for Ouyang et al. 2022 in my reference list?",
           "correct_answer": "In the Karelia UAS reference list, the full reference for this electronic source is written as: Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C., Mishkin, P., Zhang, C., Agarwal, S., Slama, K., Ray, A., Schulman, J., Hilton, J. & Leike, J. 2022. Training Language Models to Follow Instructions with Human Feedback. Read 29.3.2026. https://arxiv.org/pdf/2203.02155. Electronic sources must include the full URL and the date when the source was accessed. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions",
@@ -222,7 +222,7 @@
     },
     {
       "section": "FINALIZING — Maturity Test",
-      "variations": [
+      "questions": [
         {
           "question": "What is the maturity test in the thesis process?",
           "correct_answer": "The maturity test is a written exam taken once your thesis has been approved and is ready for the results seminar. It must follow the formal conventions of academic writing and demonstrate your expertise in the topic of your thesis. It takes the form of an essay written according to your degree programme's instructions. Your supervisor will provide three topics to choose from, and both content and language are graded on a pass/fail basis. Please refer to the official thesis instructions for more detailed guidance: https://libguides.karelia.fi/thesis_instructions",
