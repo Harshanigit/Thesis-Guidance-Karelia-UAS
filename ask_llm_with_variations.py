@@ -77,7 +77,7 @@ def main():
         }
 
         for q in section.get("questions", []):
-            topic          = q.get("topic", "")
+            topic          = q.get("question", "")
             correct_answer = q.get("correct_answer", "")
             variations     = q.get("variations", [])
 
@@ -93,7 +93,7 @@ def main():
                 time.sleep(1)
 
             section_result["questions"].append({
-                "topic":          topic,
+                "question":          topic,
                 "correct_answer": correct_answer,
                 "variations":     variations,
                 "llm_answers":    llm_answers
@@ -111,3 +111,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
