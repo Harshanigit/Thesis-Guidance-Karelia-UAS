@@ -10,10 +10,10 @@ import requests
 import time
 
 # ── Settings ──────────────────────────────────────────────────────────────────
-INPUT_FILE  = "karelia_thesis_guidance_questions_and_answers.json"  
-OUTPUT_FILE = "llm_answers.json"    
-MODEL_NAME  = "karelia-thesis"      
-OLLAMA_URL  = "http://localhost:11434/api/chat"  
+INPUT_FILE  = "karelia_thesis_guidance_questions_and_answers.json"  # your original file
+OUTPUT_FILE = "llm_answers.json"    # new file that will be created
+MODEL_NAME  = "karelia-thesis"      # the model you created in Step 2
+OLLAMA_URL  = "http://localhost:11434/api/chat"  # Ollama runs here by default
 # ──────────────────────────────────────────────────────────────────────────────
 
 
@@ -43,7 +43,7 @@ def main():
 
     results = []
     sections = original_data.get("questions_and_answers", [])
-    total_questions = sum(len(s.get("variations", [])) for s in sections)
+    total_questions = sum(len(s.get("questions", [])) for s in sections)
 
     print(f"Found {len(sections)} sections with {total_questions} total questions.\n")
 
@@ -52,10 +52,10 @@ def main():
         section_name = section.get("section", "Unknown section")
         section_result = {
             "section": section_name,
-            "variations": []
+            "questions": []
         }
 
-        for variation in section.get("variations", []):
+        for variation in section.get("questions", []):
             question_count += 1
             question  = variation.get("question", "")
             correct_answer = variation.get("answer", "")
@@ -64,7 +64,7 @@ def main():
 
             llm_answer = ask_llm(question)
 
-            section_result["variations"].append({
+            section_result["questions"].append({
                 "question":       question,
                 "correct_answer": correct_answer,
                 "llm_answer":     llm_answer
@@ -85,3 +85,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
